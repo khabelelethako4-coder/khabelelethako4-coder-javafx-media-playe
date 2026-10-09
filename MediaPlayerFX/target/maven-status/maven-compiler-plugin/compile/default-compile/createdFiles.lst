@@ -1,0 +1,11 @@
+com\mediaplayer\engine\PlaybackEngine.class
+com\mediaplayer\engine\VlcEngine$1.class
+com\mediaplayer\MediaPlayerApp$Events.class
+com\mediaplayer\engine\VlcEngine.class
+com\mediaplayer\MediaPlayerApp.class
+com\mediaplayer\Launcher.class
+com\mediaplayer\MediaPlayerApp$1.class
+com\mediaplayer\MediaPlayerApp$2.class
+com\mediaplayer\engine\FxEngine.class
+com\mediaplayer\Icons.class
+com\mediaplayer\engine\PlaybackEngine$Listener.class
